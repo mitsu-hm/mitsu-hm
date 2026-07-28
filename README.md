@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 First-year student at **UPES**
+- 🎓 Second-year student at **UPES**
 - 💻 Learning **C** and **Python**
 - 🔍 Currently figuring out my **strongest programming language**
 - 🧩 Interested in problem-solving and core computer science concepts
