@@ -18,7 +18,7 @@ Tools, Frameworks & Platforms
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,git,github,vscode,linux" /> </div> <br>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitsu-hm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Sumit's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsu-hm&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=mitsu-hm&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitsu-hm&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/> </div> <br>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=mitsu-hm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Sumit's GitHub stats"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mitsu-hm&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=mitsu-hm&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitsu-hm&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/> </div> <br>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mitsu-hm&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> </div> <br>
 🌐 Connect With Me
