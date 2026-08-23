@@ -1,3 +1,4 @@
+MD
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=160&section=header&text=Hi%20There,%20I'm%20Sumit%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+Student+%40+UPES;Aspiring+Software+Developer;Open+to+Internships+%26+Collaborations" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=mitsu-hm&color=4F46E5&style=flat&label=Profile+Views" alt="Profile Views"/> </div> <br>
 👨‍💻 About Me
 🎓 2nd year B.Tech CSE student at UPES, Dehradun
