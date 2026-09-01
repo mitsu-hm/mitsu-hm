@@ -16,6 +16,20 @@
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitsu-hm/mitsu-hm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitsu-hm/mitsu-hm/output/github-snake.svg" />
+  <img alt="A snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mitsu-hm/mitsu-hm/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
 ## 👨‍💻 About Me
 
 - 🎓 2nd year **B.Tech CSE** student at **UPES**, Dehradun
